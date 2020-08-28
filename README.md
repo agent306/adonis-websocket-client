@@ -3,7 +3,7 @@
 <div align="center">🚀 (4KB gzipped)</div>
 <div align="center">
   <strong>Websocket client for AdonisJs.</strong>
-  <p>This repo contains a simple to use Jabascript client to connect with the AdonisJs websocket server.</p>
+  <p>This repo contains a simple to use Javascript client to connect with the AdonisJs websocket server.</p>
 </div>
 
 <br />
@@ -28,7 +28,7 @@
       Official Docs
     </a>
     <span> | </span>
-    <a href="https://github.com/adonisjs/adonis-websocket-vue">
+    <a href="https://github.com/reg2005/adonis-vue-websocket">
       Vue Plugin
     </a>
   </h3>
